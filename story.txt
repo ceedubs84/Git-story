@@ -3,4 +3,4 @@ A poor mountaineer, barely kept his family fed.
 Then one day he was shootin at some food and up from the ground came a bubblin crude.
 Oil, that is. Texas tea.
 
-puts "This is the theme song from the Beverly Hillbillies."
+puts "This is the original opening song from the Beverly Hillbillies."
