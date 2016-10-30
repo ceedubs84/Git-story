@@ -4,3 +4,7 @@ Then one day he was shootin at some food and up from the ground came a bubblin c
 Oil, that is. Texas tea.
 
 puts "This is the original opening song from the Beverly Hillbillies."
+
+x = 1
+y = 2
+z = x + y
